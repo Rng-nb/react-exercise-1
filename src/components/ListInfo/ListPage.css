@@ -1,0 +1,26 @@
+.content {
+  background-color: #ededed;
+  padding: 0px 0px 0px 10px;
+  width: 800px;
+}
+
+.contenthead {
+  width: 100px;
+  height: 60px;
+  vertical-align: top;
+  font-size: medium;
+  font-weight: 600;
+}
+
+.body {
+  box-sizing: border-box;
+  display: block;
+  padding: 5px 30px;
+  margin: 10px;
+  width: 900px;
+}
+
+#topic {
+  font-size: large;
+  font-weight: 600;
+}

@@ -7,3 +7,13 @@
   width: 960px;
   background-color: $white;
 }
+
+.line {
+  border: none;
+  height: 5px;
+  background-color: #ededed;
+}
+
+.allelement {
+  transform: translate(0, -80px);
+}
